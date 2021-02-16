@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-//Write your code bellow
+//Write your code below
 
 
 //if you write correct code fallowing output will print
