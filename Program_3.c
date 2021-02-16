@@ -4,7 +4,7 @@ int main()
 {
 //Write your code below
 
-
+char c='P';
 //if you write correct code fallowing output will print
 printf("%c\n",c);
 printf("Good job..");
